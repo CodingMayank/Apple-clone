@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Smartphones &#8211; Apple</title>
+	<atom:link href="/product-category/smartphones/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Think Different</description>
+	<lastBuildDate>Wed, 04 May 2022 14:12:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/05/brand-1.webp</url>
+	<title>Smartphones &#8211; Apple</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Samsung Galaxy S21</title>
+		<link>/product/samsung-galaxy-s21/</link>
+					<comments>/product/samsung-galaxy-s21/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 04 May 2022 14:12:53 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/gadgets/?post_type=product&#038;p=243</guid>
+
+					<description><![CDATA[Dui sapien eget mi proin sed libero enim. Scelerisque in dictum non consectetur a erat. Purus viverra accumsan in nisl nisi.
+
+Nunc vel risus commodo viverra. Viverra ipsum nunc aliquet bibendum enim. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat.
+
+Vitae congue mauris rhoncus aenean vel elit scelerisque. Sed cras ornare arcu dui. Aliquam id diam maecenas ultricies mi eget mauris pharetra et.
+
+Erat nam at lectus urna duis convallis convallis tellus. Tortor pretium viverra suspendisse potenti nullam ac.]]></description>
+										<content:encoded><![CDATA[<p>Massa tempor nec feugiat nisl pretium fusce id velit ut. Sollicitudin nibh sit amet commodo. Lobortis elementum nibh tellus molestie nunc non. Viverra justo nec ultrices dui sapien eget mi. Tempor commodo ullamcorper a lacus. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Convallis aenean et tortor at risus. Ullamcorper morbi tincidunt ornare massa eget egestas.</p>
+<p>Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit.</p>
+<p>Tempus egestas sed sed risus pretium quam vulputate. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero.</p>
+<p>Vel orci porta non pulvinar. Commodo quis imperdiet massa tincidunt nunc pulvinar. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Commodo quis imperdiet massa tincidunt. Porta lorem mollis aliquam ut porttitor leo. Ut porttitor leo a diam sollicitudin.</p>
+<p>Sed sed risus pretium quam vulputate dignissim suspendisse.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/samsung-galaxy-s21/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
